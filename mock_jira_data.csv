@@ -1,0 +1,329 @@
+Issue Key,Issue Type,Status,Priority,Created Date,Resolved Date,Sprint,Story Points,Assignee,Component,Sprint Start Date,Sprint End Date,Quarter
+PROJ-1,Story,Done,High,2024-01-07,2024-01-09,Sprint 1,3,Junior Engineer 1,Database,2024-01-01,2024-01-14,Q1
+PROJ-2,Story,In Progress,Medium,2024-01-05,,Sprint 1,4,Junior Engineer 1,Frontend,2024-01-01,2024-01-14,Q1
+PROJ-3,Task,In Progress,Medium,2024-01-13,,Sprint 1,3,Junior Engineer 2,Database,2024-01-01,2024-01-14,Q1
+PROJ-4,Story,In Progress,High,2024-01-14,,Sprint 1,1,Junior Engineer 2,Frontend,2024-01-01,2024-01-14,Q1
+PROJ-5,Task,Done,Medium,2024-01-02,2024-01-13,Sprint 1,5,Mid Engineer 1,Backend,2024-01-01,2024-01-14,Q1
+PROJ-6,Task,Done,Low,2024-01-04,2024-01-07,Sprint 1,2,Mid Engineer 1,Backend,2024-01-01,2024-01-14,Q1
+PROJ-7,Story,Done,Medium,2024-01-05,2024-01-10,Sprint 1,3,Mid Engineer 2,Frontend,2024-01-01,2024-01-14,Q1
+PROJ-8,Task,In Review,Medium,2024-01-14,,Sprint 1,4,Mid Engineer 2,Frontend,2024-01-01,2024-01-14,Q1
+PROJ-9,Task,In Progress,Medium,2024-01-13,,Sprint 1,3,Senior Engineer 1,Frontend,2024-01-01,2024-01-14,Q1
+PROJ-10,Story,In Progress,Medium,2024-01-06,2024-01-08,Sprint 1,3,Senior Engineer 1,Frontend,2024-01-01,2024-01-14,Q1
+PROJ-11,Story,Done,Medium,2024-01-03,2024-01-13,Sprint 1,3,Senior Engineer 1,Frontend,2024-01-01,2024-01-14,Q1
+PROJ-12,Bug,Done,Medium,2024-01-13,2024-01-14,Sprint 1,3,Senior Engineer 1,Frontend,2024-01-01,2024-01-14,Q1
+PROJ-13,Task,In Progress,Medium,2024-01-02,,Sprint 1,5,Senior Engineer 2,Frontend,2024-01-01,2024-01-14,Q1
+PROJ-14,Task,Done,Medium,2024-01-03,2024-01-06,Sprint 1,5,Senior Engineer 2,Database,2024-01-01,2024-01-14,Q1
+PROJ-15,Story,Done,Medium,2024-01-01,2024-01-14,Sprint 1,1,Senior Engineer 2,Frontend,2024-01-01,2024-01-14,Q1
+PROJ-16,Story,Done,Low,2024-01-17,2024-01-26,Sprint 2,5,Junior Engineer 1,Frontend,2024-01-15,2024-01-28,Q1
+PROJ-17,Task,Done,Low,2024-01-21,2024-01-22,Sprint 2,2,Junior Engineer 2,Backend,2024-01-15,2024-01-28,Q1
+PROJ-18,Task,To Do,High,2024-01-25,2024-01-28,Sprint 2,2,Junior Engineer 2,Database,2024-01-15,2024-01-28,Q1
+PROJ-19,Story,Done,High,2024-01-18,2024-01-28,Sprint 2,4,Junior Engineer 2,Backend,2024-01-15,2024-01-28,Q1
+PROJ-20,Story,Done,Medium,2024-01-16,2024-01-20,Sprint 2,2,Mid Engineer 1,Database,2024-01-15,2024-01-28,Q1
+PROJ-21,Task,In Review,Low,2024-01-26,,Sprint 2,2,Mid Engineer 1,Frontend,2024-01-15,2024-01-28,Q1
+PROJ-22,Bug,Done,Medium,2024-01-16,2024-01-19,Sprint 2,3,Mid Engineer 1,Frontend,2024-01-15,2024-01-28,Q1
+PROJ-23,Story,In Progress,Medium,2024-01-22,,Sprint 2,2,Mid Engineer 1,Backend,2024-01-15,2024-01-28,Q1
+PROJ-24,Story,Done,Low,2024-01-26,2024-01-27,Sprint 2,5,Mid Engineer 2,Backend,2024-01-15,2024-01-28,Q1
+PROJ-25,Story,Done,Medium,2024-01-18,2024-01-28,Sprint 2,2,Senior Engineer 1,Frontend,2024-01-15,2024-01-28,Q1
+PROJ-26,Bug,In Progress,Medium,2024-01-26,,Sprint 2,8,Senior Engineer 1,Frontend,2024-01-15,2024-01-28,Q1
+PROJ-27,Story,Done,Medium,2024-01-26,2024-01-27,Sprint 2,2,Senior Engineer 1,Frontend,2024-01-15,2024-01-28,Q1
+PROJ-28,Task,Done,Low,2024-01-16,2024-01-26,Sprint 2,3,Senior Engineer 2,Backend,2024-01-15,2024-01-28,Q1
+PROJ-29,Story,Done,Medium,2024-01-29,2024-02-01,Sprint 3,5,Junior Engineer 1,Database,2024-01-29,2024-02-11,Q1
+PROJ-30,Story,Done,High,2024-01-31,2024-02-01,Sprint 3,2,Junior Engineer 1,Database,2024-01-29,2024-02-11,Q1
+PROJ-31,Task,In Progress,Low,2024-01-31,,Sprint 3,5,Junior Engineer 2,Frontend,2024-01-29,2024-02-11,Q1
+PROJ-32,Task,In Progress,Medium,2024-02-06,,Sprint 3,2,Junior Engineer 2,Frontend,2024-01-29,2024-02-11,Q1
+PROJ-33,Story,Done,Low,2024-01-30,2024-02-02,Sprint 3,5,Mid Engineer 1,Backend,2024-01-29,2024-02-11,Q1
+PROJ-34,Story,Done,High,2024-01-30,2024-02-10,Sprint 3,1,Mid Engineer 1,Frontend,2024-01-29,2024-02-11,Q1
+PROJ-35,Task,Done,High,2024-02-04,2024-02-07,Sprint 3,2,Mid Engineer 2,Backend,2024-01-29,2024-02-11,Q1
+PROJ-36,Story,Done,Medium,2024-01-29,2024-02-07,Sprint 3,3,Mid Engineer 2,Database,2024-01-29,2024-02-11,Q1
+PROJ-37,Story,Done,High,2024-01-31,2024-02-02,Sprint 3,2,Mid Engineer 2,Frontend,2024-01-29,2024-02-11,Q1
+PROJ-38,Story,In Progress,Medium,2024-02-08,,Sprint 3,5,Senior Engineer 1,Backend,2024-01-29,2024-02-11,Q1
+PROJ-39,Bug,In Review,Medium,2024-02-06,,Sprint 3,5,Senior Engineer 1,Backend,2024-01-29,2024-02-11,Q1
+PROJ-40,Task,In Progress,High,2024-02-02,,Sprint 3,2,Senior Engineer 2,Frontend,2024-01-29,2024-02-11,Q1
+PROJ-41,Story,In Progress,Medium,2024-02-09,,Sprint 3,2,Senior Engineer 2,Database,2024-01-29,2024-02-11,Q1
+PROJ-42,Story,In Review,High,2024-02-09,,Sprint 3,7,Senior Engineer 2,Backend,2024-01-29,2024-02-11,Q1
+PROJ-43,Task,Done,Low,2024-02-18,2024-02-25,Sprint 4,3,Junior Engineer 1,Backend,2024-02-12,2024-02-25,Q1
+PROJ-44,Bug,To Do,Medium,2024-02-25,,Sprint 4,1,Junior Engineer 1,Frontend,2024-02-12,2024-02-25,Q1
+PROJ-45,Story,In Progress,Low,2024-02-21,,Sprint 4,1,Junior Engineer 1,Database,2024-02-12,2024-02-25,Q1
+PROJ-46,Bug,In Review,High,2024-02-19,,Sprint 4,3,Junior Engineer 2,Backend,2024-02-12,2024-02-25,Q1
+PROJ-47,Task,In Progress,Low,2024-02-15,2024-02-20,Sprint 4,5,Mid Engineer 1,Frontend,2024-02-12,2024-02-25,Q1
+PROJ-48,Task,Done,Medium,2024-02-12,2024-02-23,Sprint 4,5,Mid Engineer 2,Database,2024-02-12,2024-02-25,Q1
+PROJ-49,Bug,Done,Medium,2024-02-15,2024-02-21,Sprint 4,1,Mid Engineer 2,Backend,2024-02-12,2024-02-25,Q1
+PROJ-50,Bug,To Do,Medium,2024-02-15,,Sprint 4,8,Senior Engineer 1,Frontend,2024-02-12,2024-02-25,Q1
+PROJ-51,Story,Done,Low,2024-02-18,2024-02-25,Sprint 4,3,Senior Engineer 1,Backend,2024-02-12,2024-02-25,Q1
+PROJ-52,Bug,To Do,Medium,2024-02-21,,Sprint 4,3,Senior Engineer 2,Database,2024-02-12,2024-02-25,Q1
+PROJ-53,Task,Done,Medium,2024-02-28,2024-03-05,Sprint 5,5,Junior Engineer 1,Backend,2024-02-26,2024-03-10,Q1
+PROJ-54,Task,Done,High,2024-03-07,2024-03-08,Sprint 5,2,Junior Engineer 2,Frontend,2024-02-26,2024-03-10,Q1
+PROJ-55,Bug,Done,Medium,2024-02-26,2024-03-04,Sprint 5,3,Junior Engineer 2,Backend,2024-02-26,2024-03-10,Q1
+PROJ-56,Task,In Progress,Medium,2024-03-01,,Sprint 5,3,Mid Engineer 1,Backend,2024-02-26,2024-03-10,Q1
+PROJ-57,Task,Done,Medium,2024-03-01,2024-03-09,Sprint 5,3,Mid Engineer 1,Database,2024-02-26,2024-03-10,Q1
+PROJ-58,Bug,Done,High,2024-02-27,2024-03-07,Sprint 5,1,Mid Engineer 1,Database,2024-02-26,2024-03-10,Q1
+PROJ-59,Bug,Done,Medium,2024-03-02,2024-03-08,Sprint 5,2,Mid Engineer 1,Frontend,2024-02-26,2024-03-10,Q1
+PROJ-60,Story,Done,Medium,2024-03-02,2024-03-06,Sprint 5,3,Mid Engineer 2,Database,2024-02-26,2024-03-10,Q1
+PROJ-61,Story,In Progress,Medium,2024-03-10,,Sprint 5,5,Mid Engineer 2,Frontend,2024-02-26,2024-03-10,Q1
+PROJ-62,Story,In Progress,Medium,2024-03-05,,Sprint 5,3,Senior Engineer 1,Frontend,2024-02-26,2024-03-10,Q1
+PROJ-63,Task,Done,Medium,2024-03-06,2024-03-10,Sprint 5,3,Senior Engineer 1,Frontend,2024-02-26,2024-03-10,Q1
+PROJ-64,Story,To Do,Low,2024-03-07,,Sprint 5,3,Senior Engineer 1,Frontend,2024-02-26,2024-03-10,Q1
+PROJ-65,Bug,In Progress,Medium,2024-03-10,,Sprint 5,2,Senior Engineer 1,Backend,2024-02-26,2024-03-10,Q1
+PROJ-66,Story,In Review,Medium,2024-03-10,,Sprint 5,2,Senior Engineer 2,Backend,2024-02-26,2024-03-10,Q1
+PROJ-67,Task,To Do,Medium,2024-03-02,,Sprint 5,5,Senior Engineer 2,Database,2024-02-26,2024-03-10,Q1
+PROJ-68,Story,Done,High,2024-02-28,2024-02-29,Sprint 5,3,Senior Engineer 2,Backend,2024-02-26,2024-03-10,Q1
+PROJ-69,Story,In Progress,Medium,2024-03-20,,Sprint 6,3,Junior Engineer 1,Backend,2024-03-11,2024-03-24,Q1
+PROJ-70,Task,Done,Low,2024-03-17,2024-03-22,Sprint 6,4,Junior Engineer 1,Frontend,2024-03-11,2024-03-24,Q1
+PROJ-71,Task,Done,High,2024-03-16,2024-03-23,Sprint 6,8,Junior Engineer 2,Frontend,2024-03-11,2024-03-24,Q1
+PROJ-72,Story,Done,Medium,2024-03-18,2024-03-20,Sprint 6,1,Mid Engineer 1,Backend,2024-03-11,2024-03-24,Q1
+PROJ-73,Story,In Progress,High,2024-03-19,,Sprint 6,3,Mid Engineer 1,Database,2024-03-11,2024-03-24,Q1
+PROJ-74,Story,In Review,Medium,2024-03-23,,Sprint 6,2,Mid Engineer 1,Backend,2024-03-11,2024-03-24,Q1
+PROJ-75,Story,To Do,Low,2024-03-23,,Sprint 6,1,Mid Engineer 1,Backend,2024-03-11,2024-03-24,Q1
+PROJ-76,Task,Done,Medium,2024-03-16,2024-03-23,Sprint 6,3,Mid Engineer 1,Database,2024-03-11,2024-03-24,Q1
+PROJ-77,Task,Done,Medium,2024-03-18,2024-03-20,Sprint 6,3,Mid Engineer 2,Backend,2024-03-11,2024-03-24,Q1
+PROJ-78,Bug,In Progress,Medium,2024-03-18,,Sprint 6,2,Mid Engineer 2,Frontend,2024-03-11,2024-03-24,Q1
+PROJ-79,Story,Done,Low,2024-03-13,2024-03-20,Sprint 6,3,Mid Engineer 2,Database,2024-03-11,2024-03-24,Q1
+PROJ-80,Story,Done,Medium,2024-03-12,2024-03-23,Sprint 6,1,Senior Engineer 1,Frontend,2024-03-11,2024-03-24,Q1
+PROJ-81,Story,In Progress,Medium,2024-03-23,,Sprint 6,5,Senior Engineer 1,Backend,2024-03-11,2024-03-24,Q1
+PROJ-82,Task,Done,Medium,2024-03-12,2024-03-19,Sprint 6,1,Senior Engineer 1,Frontend,2024-03-11,2024-03-24,Q1
+PROJ-83,Task,In Review,Low,2024-03-15,,Sprint 6,1,Senior Engineer 1,Frontend,2024-03-11,2024-03-24,Q1
+PROJ-84,Task,Done,Medium,2024-03-16,2024-03-22,Sprint 6,3,Senior Engineer 1,Frontend,2024-03-11,2024-03-24,Q1
+PROJ-85,Bug,In Progress,Medium,2024-03-18,,Sprint 6,1,Senior Engineer 1,Backend,2024-03-11,2024-03-24,Q1
+PROJ-86,Bug,In Progress,Medium,2024-03-15,,Sprint 6,3,Senior Engineer 2,Database,2024-03-11,2024-03-24,Q1
+PROJ-87,Task,Done,Medium,2024-03-30,2024-04-02,Sprint 7,5,Junior Engineer 1,Frontend,2024-03-25,2024-04-07,Q1
+PROJ-88,Task,Done,Medium,2024-04-01,2024-04-06,Sprint 7,2,Junior Engineer 2,Frontend,2024-03-25,2024-04-07,Q1
+PROJ-89,Task,In Progress,Medium,2024-04-06,,Sprint 7,5,Junior Engineer 2,Frontend,2024-03-25,2024-04-07,Q1
+PROJ-90,Bug,In Progress,Medium,2024-03-29,2024-04-06,Sprint 7,3,Mid Engineer 1,Backend,2024-03-25,2024-04-07,Q1
+PROJ-91,Task,In Progress,Medium,2024-04-06,,Sprint 7,2,Mid Engineer 1,Database,2024-03-25,2024-04-07,Q1
+PROJ-92,Task,Done,High,2024-03-31,2024-04-06,Sprint 7,3,Mid Engineer 1,Frontend,2024-03-25,2024-04-07,Q1
+PROJ-93,Story,In Progress,Low,2024-03-29,,Sprint 7,1,Mid Engineer 2,Backend,2024-03-25,2024-04-07,Q1
+PROJ-94,Story,In Progress,Medium,2024-03-31,,Sprint 7,2,Mid Engineer 2,Frontend,2024-03-25,2024-04-07,Q1
+PROJ-95,Task,Done,Medium,2024-03-25,2024-04-07,Sprint 7,1,Mid Engineer 2,Backend,2024-03-25,2024-04-07,Q1
+PROJ-96,Story,In Progress,Medium,2024-04-07,,Sprint 7,5,Mid Engineer 2,Backend,2024-03-25,2024-04-07,Q1
+PROJ-97,Bug,Done,Medium,2024-03-25,2024-03-31,Sprint 7,3,Senior Engineer 1,Frontend,2024-03-25,2024-04-07,Q1
+PROJ-98,Bug,Done,Medium,2024-03-25,2024-03-28,Sprint 7,5,Senior Engineer 1,Database,2024-03-25,2024-04-07,Q1
+PROJ-99,Task,In Review,High,2024-04-06,,Sprint 7,2,Senior Engineer 1,Backend,2024-03-25,2024-04-07,Q1
+PROJ-100,Bug,In Review,Low,2024-03-31,2024-04-06,Sprint 7,3,Senior Engineer 2,Frontend,2024-03-25,2024-04-07,Q1
+PROJ-101,Task,In Progress,Medium,2024-04-07,,Sprint 7,1,Senior Engineer 2,Frontend,2024-03-25,2024-04-07,Q1
+PROJ-102,Bug,Done,Medium,2024-03-29,2024-03-30,Sprint 7,6,Senior Engineer 2,Frontend,2024-03-25,2024-04-07,Q1
+PROJ-103,Task,In Progress,Medium,2024-04-11,2024-04-21,Sprint 8,5,Junior Engineer 1,Frontend,2024-04-08,2024-04-21,Q2
+PROJ-104,Task,In Progress,High,2024-04-09,,Sprint 8,1,Junior Engineer 2,Frontend,2024-04-08,2024-04-21,Q2
+PROJ-105,Bug,Done,Medium,2024-04-14,2024-04-15,Sprint 8,4,Junior Engineer 2,Backend,2024-04-08,2024-04-21,Q2
+PROJ-106,Bug,To Do,Medium,2024-04-15,,Sprint 8,5,Mid Engineer 1,Database,2024-04-08,2024-04-21,Q2
+PROJ-107,Task,In Progress,Low,2024-04-10,,Sprint 8,1,Mid Engineer 2,Frontend,2024-04-08,2024-04-21,Q2
+PROJ-108,Task,In Progress,Medium,2024-04-12,,Sprint 8,2,Mid Engineer 2,Backend,2024-04-08,2024-04-21,Q2
+PROJ-109,Story,To Do,Medium,2024-04-19,,Sprint 8,3,Mid Engineer 2,Frontend,2024-04-08,2024-04-21,Q2
+PROJ-110,Story,Done,Medium,2024-04-08,2024-04-16,Sprint 8,1,Mid Engineer 2,Backend,2024-04-08,2024-04-21,Q2
+PROJ-111,Bug,In Review,Low,2024-04-18,,Sprint 8,1,Mid Engineer 2,Backend,2024-04-08,2024-04-21,Q2
+PROJ-112,Task,Done,Medium,2024-04-10,2024-04-20,Sprint 8,3,Senior Engineer 1,Backend,2024-04-08,2024-04-21,Q2
+PROJ-113,Bug,To Do,High,2024-04-10,,Sprint 8,5,Senior Engineer 1,Backend,2024-04-08,2024-04-21,Q2
+PROJ-114,Story,In Progress,Medium,2024-04-18,,Sprint 8,1,Senior Engineer 1,Frontend,2024-04-08,2024-04-21,Q2
+PROJ-115,Bug,Done,Low,2024-04-12,2024-04-21,Sprint 8,1,Senior Engineer 1,Backend,2024-04-08,2024-04-21,Q2
+PROJ-116,Story,Done,Medium,2024-04-11,2024-04-19,Sprint 8,2,Senior Engineer 2,Database,2024-04-08,2024-04-21,Q2
+PROJ-117,Bug,In Progress,Low,2024-04-15,,Sprint 8,1,Senior Engineer 2,Frontend,2024-04-08,2024-04-21,Q2
+PROJ-118,Story,In Review,Medium,2024-05-03,2024-05-05,Sprint 9,3,Junior Engineer 1,Frontend,2024-04-22,2024-05-05,Q2
+PROJ-119,Bug,In Progress,Medium,2024-04-29,,Sprint 9,1,Junior Engineer 1,Backend,2024-04-22,2024-05-05,Q2
+PROJ-120,Story,In Review,Medium,2024-04-29,,Sprint 9,2,Junior Engineer 2,Backend,2024-04-22,2024-05-05,Q2
+PROJ-121,Story,Done,High,2024-05-03,2024-05-05,Sprint 9,1,Junior Engineer 2,Backend,2024-04-22,2024-05-05,Q2
+PROJ-122,Story,In Progress,Medium,2024-05-05,,Sprint 9,1,Junior Engineer 2,Frontend,2024-04-22,2024-05-05,Q2
+PROJ-123,Bug,In Progress,Medium,2024-05-03,,Sprint 9,5,Mid Engineer 1,Backend,2024-04-22,2024-05-05,Q2
+PROJ-124,Task,Done,High,2024-04-26,2024-05-05,Sprint 9,3,Mid Engineer 1,Backend,2024-04-22,2024-05-05,Q2
+PROJ-125,Bug,Done,Medium,2024-04-22,2024-04-27,Sprint 9,1,Mid Engineer 1,Backend,2024-04-22,2024-05-05,Q2
+PROJ-126,Bug,To Do,Medium,2024-04-27,,Sprint 9,1,Mid Engineer 2,Backend,2024-04-22,2024-05-05,Q2
+PROJ-127,Task,Done,Medium,2024-04-30,2024-05-01,Sprint 9,5,Mid Engineer 2,Frontend,2024-04-22,2024-05-05,Q2
+PROJ-128,Story,To Do,Medium,2024-05-05,,Sprint 9,3,Senior Engineer 1,Frontend,2024-04-22,2024-05-05,Q2
+PROJ-129,Task,Done,Medium,2024-04-26,2024-05-03,Sprint 9,3,Senior Engineer 1,Backend,2024-04-22,2024-05-05,Q2
+PROJ-130,Bug,Done,High,2024-04-25,2024-05-03,Sprint 9,2,Senior Engineer 1,Backend,2024-04-22,2024-05-05,Q2
+PROJ-131,Bug,Done,Medium,2024-04-27,2024-04-28,Sprint 9,2,Senior Engineer 1,Backend,2024-04-22,2024-05-05,Q2
+PROJ-132,Story,Done,Medium,2024-04-23,2024-05-04,Sprint 9,1,Senior Engineer 1,Frontend,2024-04-22,2024-05-05,Q2
+PROJ-133,Task,In Review,High,2024-05-04,,Sprint 9,1,Senior Engineer 1,Backend,2024-04-22,2024-05-05,Q2
+PROJ-134,Bug,To Do,High,2024-05-05,,Sprint 9,2,Senior Engineer 2,Backend,2024-04-22,2024-05-05,Q2
+PROJ-135,Bug,In Review,Low,2024-04-28,,Sprint 9,5,Senior Engineer 2,Database,2024-04-22,2024-05-05,Q2
+PROJ-136,Task,In Progress,High,2024-04-29,,Sprint 9,3,Senior Engineer 2,Frontend,2024-04-22,2024-05-05,Q2
+PROJ-137,Task,In Review,Medium,2024-05-11,,Sprint 10,2,Junior Engineer 1,Frontend,2024-05-06,2024-05-19,Q2
+PROJ-138,Story,Done,Medium,2024-05-07,2024-05-11,Sprint 10,4,Junior Engineer 1,Backend,2024-05-06,2024-05-19,Q2
+PROJ-139,Task,Done,Medium,2024-05-06,2024-05-17,Sprint 10,6,Junior Engineer 2,Database,2024-05-06,2024-05-19,Q2
+PROJ-140,Task,To Do,Low,2024-05-16,,Sprint 10,3,Mid Engineer 1,Backend,2024-05-06,2024-05-19,Q2
+PROJ-141,Story,Done,Low,2024-05-10,2024-05-18,Sprint 10,3,Mid Engineer 1,Backend,2024-05-06,2024-05-19,Q2
+PROJ-142,Story,In Progress,Medium,2024-05-18,,Sprint 10,5,Mid Engineer 2,Frontend,2024-05-06,2024-05-19,Q2
+PROJ-143,Bug,In Progress,Medium,2024-05-06,2024-05-17,Sprint 10,3,Mid Engineer 2,Database,2024-05-06,2024-05-19,Q2
+PROJ-144,Bug,Done,Medium,2024-05-08,2024-05-14,Sprint 10,2,Senior Engineer 1,Database,2024-05-06,2024-05-19,Q2
+PROJ-145,Bug,To Do,Medium,2024-05-19,,Sprint 10,2,Senior Engineer 1,Database,2024-05-06,2024-05-19,Q2
+PROJ-146,Story,In Progress,Low,2024-05-16,,Sprint 10,5,Senior Engineer 1,Backend,2024-05-06,2024-05-19,Q2
+PROJ-147,Task,To Do,High,2024-05-17,,Sprint 10,1,Senior Engineer 1,Backend,2024-05-06,2024-05-19,Q2
+PROJ-148,Bug,To Do,High,2024-05-15,,Sprint 10,1,Senior Engineer 2,Backend,2024-05-06,2024-05-19,Q2
+PROJ-149,Task,To Do,High,2024-05-08,,Sprint 10,2,Senior Engineer 2,Backend,2024-05-06,2024-05-19,Q2
+PROJ-150,Story,Done,Low,2024-05-29,2024-05-31,Sprint 11,3,Junior Engineer 1,Database,2024-05-20,2024-06-02,Q2
+PROJ-151,Bug,Done,High,2024-05-22,2024-05-29,Sprint 11,5,Junior Engineer 2,Backend,2024-05-20,2024-06-02,Q2
+PROJ-152,Bug,In Progress,Medium,2024-05-29,,Sprint 11,3,Mid Engineer 1,Database,2024-05-20,2024-06-02,Q2
+PROJ-153,Story,In Progress,Low,2024-05-25,,Sprint 11,3,Mid Engineer 1,Backend,2024-05-20,2024-06-02,Q2
+PROJ-154,Task,In Progress,Medium,2024-05-31,,Sprint 11,4,Mid Engineer 1,Frontend,2024-05-20,2024-06-02,Q2
+PROJ-155,Story,Done,Medium,2024-05-22,2024-05-24,Sprint 11,5,Mid Engineer 2,Frontend,2024-05-20,2024-06-02,Q2
+PROJ-156,Task,In Progress,Medium,2024-05-26,,Sprint 11,2,Mid Engineer 2,Backend,2024-05-20,2024-06-02,Q2
+PROJ-157,Bug,In Progress,Medium,2024-05-28,,Sprint 11,1,Mid Engineer 2,Frontend,2024-05-20,2024-06-02,Q2
+PROJ-158,Task,In Progress,High,2024-05-23,,Sprint 11,5,Senior Engineer 1,Backend,2024-05-20,2024-06-02,Q2
+PROJ-159,Bug,Done,Medium,2024-05-25,2024-05-31,Sprint 11,6,Senior Engineer 1,Database,2024-05-20,2024-06-02,Q2
+PROJ-160,Story,To Do,Low,2024-05-27,,Sprint 11,2,Senior Engineer 2,Backend,2024-05-20,2024-06-02,Q2
+PROJ-161,Task,Done,Medium,2024-05-29,2024-06-02,Sprint 11,3,Senior Engineer 2,Frontend,2024-05-20,2024-06-02,Q2
+PROJ-162,Story,In Progress,Medium,2024-06-01,,Sprint 11,2,Senior Engineer 2,Frontend,2024-05-20,2024-06-02,Q2
+PROJ-163,Task,Done,Medium,2024-05-22,2024-05-23,Sprint 11,3,Senior Engineer 2,Frontend,2024-05-20,2024-06-02,Q2
+PROJ-164,Story,In Progress,High,2024-05-28,,Sprint 11,1,Senior Engineer 2,Frontend,2024-05-20,2024-06-02,Q2
+PROJ-165,Story,In Review,Medium,2024-06-16,,Sprint 12,3,Junior Engineer 1,Frontend,2024-06-03,2024-06-16,Q2
+PROJ-166,Story,In Progress,Medium,2024-06-16,,Sprint 12,1,Junior Engineer 1,Frontend,2024-06-03,2024-06-16,Q2
+PROJ-167,Bug,Done,Low,2024-06-07,2024-06-11,Sprint 12,5,Junior Engineer 2,Frontend,2024-06-03,2024-06-16,Q2
+PROJ-168,Story,Done,Medium,2024-06-10,2024-06-14,Sprint 12,2,Mid Engineer 1,Frontend,2024-06-03,2024-06-16,Q2
+PROJ-169,Task,Done,Low,2024-06-09,2024-06-13,Sprint 12,5,Mid Engineer 1,Database,2024-06-03,2024-06-16,Q2
+PROJ-170,Story,In Progress,Medium,2024-06-15,,Sprint 12,8,Mid Engineer 2,Frontend,2024-06-03,2024-06-16,Q2
+PROJ-171,Story,In Review,Medium,2024-06-12,2024-06-13,Sprint 12,8,Senior Engineer 1,Frontend,2024-06-03,2024-06-16,Q2
+PROJ-172,Story,To Do,Medium,2024-06-16,,Sprint 12,3,Senior Engineer 1,Frontend,2024-06-03,2024-06-16,Q2
+PROJ-173,Task,Done,High,2024-06-03,2024-06-14,Sprint 12,1,Senior Engineer 1,Frontend,2024-06-03,2024-06-16,Q2
+PROJ-174,Bug,Done,Medium,2024-06-06,2024-06-08,Sprint 12,3,Senior Engineer 2,Backend,2024-06-03,2024-06-16,Q2
+PROJ-175,Story,Done,High,2024-06-21,2024-06-24,Sprint 13,5,Junior Engineer 1,Frontend,2024-06-17,2024-06-30,Q2
+PROJ-176,Story,To Do,Medium,2024-06-30,,Sprint 13,2,Junior Engineer 1,Database,2024-06-17,2024-06-30,Q2
+PROJ-177,Bug,In Progress,Medium,2024-06-29,,Sprint 13,1,Junior Engineer 1,Database,2024-06-17,2024-06-30,Q2
+PROJ-178,Task,In Progress,Medium,2024-06-24,,Sprint 13,4,Junior Engineer 2,Frontend,2024-06-17,2024-06-30,Q2
+PROJ-179,Story,Done,Low,2024-06-21,2024-06-23,Sprint 13,2,Mid Engineer 1,Database,2024-06-17,2024-06-30,Q2
+PROJ-180,Bug,In Progress,Medium,2024-06-29,,Sprint 13,7,Mid Engineer 1,Database,2024-06-17,2024-06-30,Q2
+PROJ-181,Bug,Done,Medium,2024-06-20,2024-06-25,Sprint 13,8,Mid Engineer 2,Frontend,2024-06-17,2024-06-30,Q2
+PROJ-182,Story,To Do,Medium,2024-06-30,,Sprint 13,1,Mid Engineer 2,Frontend,2024-06-17,2024-06-30,Q2
+PROJ-183,Bug,Done,Low,2024-06-24,2024-06-28,Sprint 13,3,Senior Engineer 1,Frontend,2024-06-17,2024-06-30,Q2
+PROJ-184,Bug,To Do,Low,2024-06-22,,Sprint 13,5,Senior Engineer 1,Frontend,2024-06-17,2024-06-30,Q2
+PROJ-185,Bug,Done,High,2024-06-24,2024-06-27,Sprint 13,2,Senior Engineer 1,Frontend,2024-06-17,2024-06-30,Q2
+PROJ-186,Bug,Done,High,2024-06-17,2024-06-21,Sprint 13,1,Senior Engineer 1,Frontend,2024-06-17,2024-06-30,Q2
+PROJ-187,Task,In Review,Medium,2024-06-25,2024-06-29,Sprint 13,2,Senior Engineer 2,Backend,2024-06-17,2024-06-30,Q2
+PROJ-188,Task,In Progress,Medium,2024-06-27,,Sprint 13,3,Senior Engineer 2,Database,2024-06-17,2024-06-30,Q2
+PROJ-189,Task,Done,High,2024-06-17,2024-06-28,Sprint 13,5,Senior Engineer 2,Database,2024-06-17,2024-06-30,Q2
+PROJ-190,Story,In Progress,Medium,2024-06-30,,Sprint 13,2,Senior Engineer 2,Backend,2024-06-17,2024-06-30,Q2
+PROJ-191,Bug,Done,Medium,2024-07-06,2024-07-08,Sprint 14,5,Mid Engineer 2,Database,2024-07-01,2024-07-14,Q3
+PROJ-192,Bug,In Review,Medium,2024-07-18,2024-07-24,Sprint 15,3,Junior Engineer 1,Backend,2024-07-15,2024-07-28,Q3
+PROJ-193,Task,Done,Medium,2024-07-17,2024-07-21,Sprint 15,3,Junior Engineer 1,Backend,2024-07-15,2024-07-28,Q3
+PROJ-194,Task,In Progress,Medium,2024-07-20,,Sprint 15,5,Junior Engineer 2,Backend,2024-07-15,2024-07-28,Q3
+PROJ-195,Task,In Review,Medium,2024-07-26,,Sprint 15,5,Mid Engineer 1,Backend,2024-07-15,2024-07-28,Q3
+PROJ-196,Task,In Review,Low,2024-07-25,,Sprint 15,1,Mid Engineer 1,Backend,2024-07-15,2024-07-28,Q3
+PROJ-197,Story,Done,Low,2024-07-17,2024-07-23,Sprint 15,5,Mid Engineer 2,Frontend,2024-07-15,2024-07-28,Q3
+PROJ-198,Task,Done,Medium,2024-07-16,2024-07-26,Sprint 15,3,Mid Engineer 2,Frontend,2024-07-15,2024-07-28,Q3
+PROJ-199,Task,To Do,Low,2024-07-20,,Sprint 15,3,Senior Engineer 1,Backend,2024-07-15,2024-07-28,Q3
+PROJ-200,Story,Done,Medium,2024-07-26,2024-07-27,Sprint 15,1,Senior Engineer 1,Backend,2024-07-15,2024-07-28,Q3
+PROJ-201,Story,In Progress,Medium,2024-07-25,,Sprint 15,5,Senior Engineer 1,Backend,2024-07-15,2024-07-28,Q3
+PROJ-202,Story,In Progress,Medium,2024-07-25,,Sprint 15,2,Senior Engineer 1,Backend,2024-07-15,2024-07-28,Q3
+PROJ-203,Story,Done,High,2024-07-17,2024-07-22,Sprint 15,1,Senior Engineer 1,Backend,2024-07-15,2024-07-28,Q3
+PROJ-204,Task,Done,Low,2024-07-25,2024-07-27,Sprint 15,3,Senior Engineer 2,Backend,2024-07-15,2024-07-28,Q3
+PROJ-205,Story,In Progress,High,2024-07-23,,Sprint 15,5,Senior Engineer 2,Backend,2024-07-15,2024-07-28,Q3
+PROJ-206,Bug,In Progress,Medium,2024-07-28,,Sprint 15,3,Senior Engineer 2,Frontend,2024-07-15,2024-07-28,Q3
+PROJ-207,Task,In Progress,High,2024-07-28,,Sprint 15,1,Senior Engineer 2,Database,2024-07-15,2024-07-28,Q3
+PROJ-208,Story,In Progress,Medium,2024-07-30,2024-08-10,Sprint 16,1,Junior Engineer 1,Backend,2024-07-29,2024-08-11,Q3
+PROJ-209,Bug,To Do,Medium,2024-08-06,2024-08-07,Sprint 16,2,Junior Engineer 1,Frontend,2024-07-29,2024-08-11,Q3
+PROJ-210,Story,Done,Medium,2024-08-04,2024-08-10,Sprint 16,1,Junior Engineer 2,Frontend,2024-07-29,2024-08-11,Q3
+PROJ-211,Bug,In Progress,Medium,2024-08-03,,Sprint 16,3,Junior Engineer 2,Backend,2024-07-29,2024-08-11,Q3
+PROJ-212,Bug,To Do,High,2024-08-06,,Sprint 16,2,Junior Engineer 2,Backend,2024-07-29,2024-08-11,Q3
+PROJ-213,Story,Done,Low,2024-08-05,2024-08-06,Sprint 16,5,Mid Engineer 1,Backend,2024-07-29,2024-08-11,Q3
+PROJ-214,Story,In Progress,Medium,2024-08-10,,Sprint 16,3,Mid Engineer 1,Frontend,2024-07-29,2024-08-11,Q3
+PROJ-215,Story,Done,Medium,2024-07-29,2024-08-10,Sprint 16,5,Mid Engineer 2,Backend,2024-07-29,2024-08-11,Q3
+PROJ-216,Task,In Review,Medium,2024-07-29,2024-08-02,Sprint 16,3,Mid Engineer 2,Backend,2024-07-29,2024-08-11,Q3
+PROJ-217,Story,In Progress,High,2024-08-06,,Sprint 16,3,Senior Engineer 1,Database,2024-07-29,2024-08-11,Q3
+PROJ-218,Bug,In Progress,Medium,2024-08-11,,Sprint 16,5,Senior Engineer 1,Frontend,2024-07-29,2024-08-11,Q3
+PROJ-219,Story,In Progress,Medium,2024-08-03,,Sprint 16,2,Senior Engineer 1,Frontend,2024-07-29,2024-08-11,Q3
+PROJ-220,Story,In Review,Medium,2024-08-04,,Sprint 16,3,Senior Engineer 2,Frontend,2024-07-29,2024-08-11,Q3
+PROJ-221,Story,To Do,Medium,2024-08-25,,Sprint 17,3,Junior Engineer 1,Database,2024-08-12,2024-08-25,Q3
+PROJ-222,Task,In Review,Medium,2024-08-25,,Sprint 17,1,Junior Engineer 1,Backend,2024-08-12,2024-08-25,Q3
+PROJ-223,Task,Done,Medium,2024-08-16,2024-08-23,Sprint 17,4,Junior Engineer 1,Backend,2024-08-12,2024-08-25,Q3
+PROJ-224,Story,In Progress,Medium,2024-08-20,,Sprint 17,5,Junior Engineer 2,Frontend,2024-08-12,2024-08-25,Q3
+PROJ-225,Story,To Do,Medium,2024-08-24,,Sprint 17,1,Junior Engineer 2,Backend,2024-08-12,2024-08-25,Q3
+PROJ-226,Bug,In Progress,High,2024-08-14,2024-08-23,Sprint 17,1,Mid Engineer 1,Backend,2024-08-12,2024-08-25,Q3
+PROJ-227,Bug,Done,Medium,2024-08-12,2024-08-18,Sprint 17,1,Mid Engineer 1,Backend,2024-08-12,2024-08-25,Q3
+PROJ-228,Story,In Progress,Medium,2024-08-20,,Sprint 17,2,Mid Engineer 1,Frontend,2024-08-12,2024-08-25,Q3
+PROJ-229,Story,In Progress,Medium,2024-08-22,2024-08-25,Sprint 17,2,Mid Engineer 1,Backend,2024-08-12,2024-08-25,Q3
+PROJ-230,Task,Done,Low,2024-08-16,2024-08-22,Sprint 17,2,Mid Engineer 1,Backend,2024-08-12,2024-08-25,Q3
+PROJ-231,Task,Done,High,2024-08-18,2024-08-20,Sprint 17,2,Mid Engineer 1,Database,2024-08-12,2024-08-25,Q3
+PROJ-232,Task,Done,Medium,2024-08-15,2024-08-17,Sprint 17,3,Mid Engineer 2,Backend,2024-08-12,2024-08-25,Q3
+PROJ-233,Story,In Progress,Low,2024-08-17,,Sprint 17,3,Mid Engineer 2,Database,2024-08-12,2024-08-25,Q3
+PROJ-234,Task,Done,High,2024-08-12,2024-08-21,Sprint 17,2,Mid Engineer 2,Frontend,2024-08-12,2024-08-25,Q3
+PROJ-235,Task,Done,Medium,2024-08-17,2024-08-22,Sprint 17,3,Senior Engineer 1,Frontend,2024-08-12,2024-08-25,Q3
+PROJ-236,Bug,Done,Medium,2024-08-19,2024-08-23,Sprint 17,5,Senior Engineer 1,Database,2024-08-12,2024-08-25,Q3
+PROJ-237,Story,Done,Medium,2024-08-19,2024-08-25,Sprint 17,4,Senior Engineer 1,Backend,2024-08-12,2024-08-25,Q3
+PROJ-238,Story,In Progress,High,2024-08-13,2024-08-18,Sprint 17,2,Senior Engineer 2,Database,2024-08-12,2024-08-25,Q3
+PROJ-239,Bug,In Review,Medium,2024-08-20,,Sprint 17,2,Senior Engineer 2,Backend,2024-08-12,2024-08-25,Q3
+PROJ-240,Story,In Progress,Medium,2024-08-19,,Sprint 17,3,Senior Engineer 2,Backend,2024-08-12,2024-08-25,Q3
+PROJ-241,Bug,Done,Medium,2024-08-14,2024-08-24,Sprint 17,3,Senior Engineer 2,Database,2024-08-12,2024-08-25,Q3
+PROJ-242,Story,Done,High,2024-08-27,2024-08-31,Sprint 18,3,Junior Engineer 1,Backend,2024-08-26,2024-09-08,Q3
+PROJ-243,Bug,Done,Medium,2024-08-30,2024-09-07,Sprint 18,4,Junior Engineer 1,Frontend,2024-08-26,2024-09-08,Q3
+PROJ-244,Story,Done,Medium,2024-08-28,2024-09-02,Sprint 18,3,Junior Engineer 2,Database,2024-08-26,2024-09-08,Q3
+PROJ-245,Task,Done,Medium,2024-08-29,2024-09-07,Sprint 18,3,Junior Engineer 2,Frontend,2024-08-26,2024-09-08,Q3
+PROJ-246,Story,Done,High,2024-08-31,2024-09-04,Sprint 18,1,Junior Engineer 2,Database,2024-08-26,2024-09-08,Q3
+PROJ-247,Bug,In Progress,High,2024-09-04,,Sprint 18,5,Mid Engineer 1,Frontend,2024-08-26,2024-09-08,Q3
+PROJ-248,Task,Done,Low,2024-08-26,2024-08-29,Sprint 18,3,Mid Engineer 1,Backend,2024-08-26,2024-09-08,Q3
+PROJ-249,Bug,Done,High,2024-09-02,2024-09-07,Sprint 18,1,Mid Engineer 1,Database,2024-08-26,2024-09-08,Q3
+PROJ-250,Task,In Progress,Medium,2024-08-29,,Sprint 18,5,Mid Engineer 2,Backend,2024-08-26,2024-09-08,Q3
+PROJ-251,Bug,Done,Low,2024-08-30,2024-09-02,Sprint 18,3,Mid Engineer 2,Backend,2024-08-26,2024-09-08,Q3
+PROJ-252,Bug,Done,Medium,2024-09-03,2024-09-08,Sprint 18,1,Mid Engineer 2,Backend,2024-08-26,2024-09-08,Q3
+PROJ-253,Task,In Review,Medium,2024-09-08,,Sprint 18,5,Senior Engineer 1,Frontend,2024-08-26,2024-09-08,Q3
+PROJ-254,Story,To Do,Medium,2024-09-03,,Sprint 18,1,Senior Engineer 1,Frontend,2024-08-26,2024-09-08,Q3
+PROJ-255,Task,In Progress,High,2024-09-07,,Sprint 18,1,Senior Engineer 1,Frontend,2024-08-26,2024-09-08,Q3
+PROJ-256,Story,In Progress,Low,2024-09-02,,Sprint 18,2,Senior Engineer 1,Frontend,2024-08-26,2024-09-08,Q3
+PROJ-257,Task,Done,Medium,2024-08-31,2024-09-04,Sprint 18,2,Senior Engineer 1,Backend,2024-08-26,2024-09-08,Q3
+PROJ-258,Story,In Progress,Medium,2024-09-07,,Sprint 18,2,Senior Engineer 2,Backend,2024-08-26,2024-09-08,Q3
+PROJ-259,Task,In Progress,Medium,2024-09-05,,Sprint 18,1,Senior Engineer 2,Database,2024-08-26,2024-09-08,Q3
+PROJ-260,Story,To Do,Medium,2024-09-16,,Sprint 19,5,Junior Engineer 1,Backend,2024-09-09,2024-09-22,Q3
+PROJ-261,Story,Done,Medium,2024-09-12,2024-09-22,Sprint 19,1,Junior Engineer 1,Frontend,2024-09-09,2024-09-22,Q3
+PROJ-262,Story,Done,Medium,2024-09-16,2024-09-19,Sprint 19,4,Junior Engineer 2,Frontend,2024-09-09,2024-09-22,Q3
+PROJ-263,Task,Done,High,2024-09-14,2024-09-15,Sprint 19,2,Mid Engineer 1,Frontend,2024-09-09,2024-09-22,Q3
+PROJ-264,Story,To Do,Medium,2024-09-22,,Sprint 19,1,Mid Engineer 1,Database,2024-09-09,2024-09-22,Q3
+PROJ-265,Story,In Progress,Medium,2024-09-22,,Sprint 19,2,Mid Engineer 1,Frontend,2024-09-09,2024-09-22,Q3
+PROJ-266,Task,To Do,Medium,2024-09-15,,Sprint 19,4,Mid Engineer 1,Backend,2024-09-09,2024-09-22,Q3
+PROJ-267,Bug,In Progress,Medium,2024-09-14,,Sprint 19,3,Mid Engineer 2,Database,2024-09-09,2024-09-22,Q3
+PROJ-268,Bug,Done,Medium,2024-09-14,2024-09-16,Sprint 19,3,Mid Engineer 2,Backend,2024-09-09,2024-09-22,Q3
+PROJ-269,Story,In Progress,High,2024-09-21,,Sprint 19,2,Mid Engineer 2,Database,2024-09-09,2024-09-22,Q3
+PROJ-270,Story,Done,High,2024-09-16,2024-09-19,Sprint 19,5,Senior Engineer 1,Backend,2024-09-09,2024-09-22,Q3
+PROJ-271,Bug,Done,Medium,2024-09-16,2024-09-22,Sprint 19,3,Senior Engineer 1,Database,2024-09-09,2024-09-22,Q3
+PROJ-272,Story,In Progress,Medium,2024-09-12,,Sprint 19,2,Senior Engineer 1,Backend,2024-09-09,2024-09-22,Q3
+PROJ-273,Task,Done,Medium,2024-09-14,2024-09-16,Sprint 19,3,Senior Engineer 2,Backend,2024-09-09,2024-09-22,Q3
+PROJ-274,Task,In Progress,Low,2024-09-18,,Sprint 19,2,Senior Engineer 2,Frontend,2024-09-09,2024-09-22,Q3
+PROJ-275,Task,In Progress,Medium,2024-09-15,,Sprint 19,1,Senior Engineer 2,Database,2024-09-09,2024-09-22,Q3
+PROJ-276,Story,In Progress,Medium,2024-09-14,,Sprint 19,5,Senior Engineer 2,Frontend,2024-09-09,2024-09-22,Q3
+PROJ-277,Bug,In Review,Medium,2024-09-18,,Sprint 19,1,Senior Engineer 2,Database,2024-09-09,2024-09-22,Q3
+PROJ-278,Bug,In Review,Medium,2024-10-05,,Sprint 20,1,Junior Engineer 1,Frontend,2024-09-23,2024-10-06,Q3
+PROJ-279,Story,In Review,Medium,2024-10-06,,Sprint 20,2,Junior Engineer 1,Frontend,2024-09-23,2024-10-06,Q3
+PROJ-280,Task,In Progress,Low,2024-09-26,,Sprint 20,5,Junior Engineer 2,Frontend,2024-09-23,2024-10-06,Q3
+PROJ-281,Story,In Progress,Medium,2024-10-01,,Sprint 20,2,Junior Engineer 2,Backend,2024-09-23,2024-10-06,Q3
+PROJ-282,Task,Done,Low,2024-09-24,2024-10-06,Sprint 20,7,Mid Engineer 1,Frontend,2024-09-23,2024-10-06,Q3
+PROJ-283,Task,In Progress,High,2024-10-04,,Sprint 20,2,Mid Engineer 2,Backend,2024-09-23,2024-10-06,Q3
+PROJ-284,Bug,Done,Medium,2024-09-26,2024-10-01,Sprint 20,2,Mid Engineer 2,Backend,2024-09-23,2024-10-06,Q3
+PROJ-285,Task,In Progress,Medium,2024-10-04,,Sprint 20,4,Mid Engineer 2,Frontend,2024-09-23,2024-10-06,Q3
+PROJ-286,Bug,To Do,Low,2024-10-03,,Sprint 20,1,Senior Engineer 1,Frontend,2024-09-23,2024-10-06,Q3
+PROJ-287,Bug,To Do,Low,2024-09-27,,Sprint 20,3,Senior Engineer 1,Backend,2024-09-23,2024-10-06,Q3
+PROJ-288,Bug,In Progress,Low,2024-10-06,,Sprint 20,5,Senior Engineer 1,Backend,2024-09-23,2024-10-06,Q3
+PROJ-289,Task,In Progress,Medium,2024-09-29,,Sprint 20,1,Senior Engineer 1,Database,2024-09-23,2024-10-06,Q3
+PROJ-290,Task,In Progress,Low,2024-09-29,,Sprint 20,2,Senior Engineer 2,Frontend,2024-09-23,2024-10-06,Q3
+PROJ-291,Story,To Do,Medium,2024-10-03,,Sprint 20,1,Senior Engineer 2,Frontend,2024-09-23,2024-10-06,Q3
+PROJ-292,Story,Done,High,2024-10-08,2024-10-14,Sprint 21,2,Junior Engineer 1,Database,2024-10-07,2024-10-20,Q4
+PROJ-293,Task,In Progress,Medium,2024-10-14,,Sprint 21,2,Junior Engineer 1,Backend,2024-10-07,2024-10-20,Q4
+PROJ-294,Task,In Review,Medium,2024-10-13,,Sprint 21,2,Junior Engineer 1,Frontend,2024-10-07,2024-10-20,Q4
+PROJ-295,Story,In Progress,High,2024-10-10,,Sprint 21,2,Junior Engineer 1,Backend,2024-10-07,2024-10-20,Q4
+PROJ-296,Story,In Progress,High,2024-10-19,,Sprint 21,4,Junior Engineer 2,Backend,2024-10-07,2024-10-20,Q4
+PROJ-297,Story,In Progress,Low,2024-10-17,,Sprint 21,3,Mid Engineer 1,Backend,2024-10-07,2024-10-20,Q4
+PROJ-298,Task,In Progress,Medium,2024-10-18,,Sprint 21,5,Mid Engineer 1,Database,2024-10-07,2024-10-20,Q4
+PROJ-299,Task,Done,High,2024-10-18,2024-10-19,Sprint 21,1,Mid Engineer 1,Frontend,2024-10-07,2024-10-20,Q4
+PROJ-300,Task,Done,Medium,2024-10-10,2024-10-14,Sprint 21,3,Mid Engineer 2,Backend,2024-10-07,2024-10-20,Q4
+PROJ-301,Bug,In Progress,Medium,2024-10-16,,Sprint 21,3,Mid Engineer 2,Frontend,2024-10-07,2024-10-20,Q4
+PROJ-302,Story,Done,Medium,2024-10-10,2024-10-20,Sprint 21,2,Mid Engineer 2,Database,2024-10-07,2024-10-20,Q4
+PROJ-303,Bug,Done,Medium,2024-10-08,2024-10-11,Sprint 21,1,Mid Engineer 2,Frontend,2024-10-07,2024-10-20,Q4
+PROJ-304,Task,Done,Medium,2024-10-08,2024-10-17,Sprint 21,3,Senior Engineer 1,Frontend,2024-10-07,2024-10-20,Q4
+PROJ-305,Bug,In Progress,Medium,2024-10-18,,Sprint 21,3,Senior Engineer 1,Backend,2024-10-07,2024-10-20,Q4
+PROJ-306,Story,Done,High,2024-10-08,2024-10-18,Sprint 21,2,Senior Engineer 1,Frontend,2024-10-07,2024-10-20,Q4
+PROJ-307,Bug,To Do,Medium,2024-10-10,,Sprint 21,2,Senior Engineer 1,Frontend,2024-10-07,2024-10-20,Q4
+PROJ-308,Bug,In Progress,Medium,2024-10-14,,Sprint 21,5,Senior Engineer 2,Backend,2024-10-07,2024-10-20,Q4
+PROJ-309,Task,In Progress,High,2024-10-18,,Sprint 21,1,Senior Engineer 2,Backend,2024-10-07,2024-10-20,Q4
+PROJ-310,Task,Done,High,2024-10-07,2024-10-14,Sprint 21,1,Senior Engineer 2,Database,2024-10-07,2024-10-20,Q4
+PROJ-311,Task,In Progress,Medium,2024-10-13,2024-10-18,Sprint 21,2,Senior Engineer 2,Frontend,2024-10-07,2024-10-20,Q4
+PROJ-312,Story,Done,Medium,2024-10-12,2024-10-15,Sprint 21,2,Senior Engineer 2,Backend,2024-10-07,2024-10-20,Q4
+PROJ-313,Story,In Progress,Medium,2024-11-02,,Sprint 22,1,Junior Engineer 1,Backend,2024-10-21,2024-11-03,Q4
+PROJ-314,Bug,Done,Medium,2024-10-24,2024-10-30,Sprint 22,2,Junior Engineer 1,Database,2024-10-21,2024-11-03,Q4
+PROJ-315,Bug,To Do,High,2024-10-24,,Sprint 22,1,Junior Engineer 1,Backend,2024-10-21,2024-11-03,Q4
+PROJ-316,Task,To Do,Low,2024-11-01,,Sprint 22,5,Junior Engineer 2,Backend,2024-10-21,2024-11-03,Q4
+PROJ-317,Story,In Review,Medium,2024-10-23,,Sprint 22,2,Junior Engineer 2,Frontend,2024-10-21,2024-11-03,Q4
+PROJ-318,Task,Done,Low,2024-10-25,2024-11-02,Sprint 22,3,Mid Engineer 1,Backend,2024-10-21,2024-11-03,Q4
+PROJ-319,Story,In Progress,Low,2024-11-01,,Sprint 22,5,Mid Engineer 1,Backend,2024-10-21,2024-11-03,Q4
+PROJ-320,Task,Done,Medium,2024-10-21,2024-11-03,Sprint 22,5,Mid Engineer 2,Backend,2024-10-21,2024-11-03,Q4
+PROJ-321,Task,Done,Low,2024-10-22,2024-10-27,Sprint 22,1,Mid Engineer 2,Database,2024-10-21,2024-11-03,Q4
+PROJ-322,Task,Done,Medium,2024-10-24,2024-10-29,Sprint 22,2,Senior Engineer 1,Backend,2024-10-21,2024-11-03,Q4
+PROJ-323,Bug,In Progress,Medium,2024-10-28,,Sprint 22,1,Senior Engineer 1,Frontend,2024-10-21,2024-11-03,Q4
+PROJ-324,Bug,Done,Low,2024-10-25,2024-10-26,Sprint 22,5,Senior Engineer 1,Frontend,2024-10-21,2024-11-03,Q4
+PROJ-325,Story,Done,Medium,2024-10-27,2024-10-30,Sprint 22,2,Senior Engineer 1,Backend,2024-10-21,2024-11-03,Q4
+PROJ-326,Bug,Done,Medium,2024-10-29,2024-11-02,Sprint 22,1,Senior Engineer 1,Database,2024-10-21,2024-11-03,Q4
+PROJ-327,Story,Done,Medium,2024-10-25,2024-10-31,Sprint 22,2,Senior Engineer 2,Backend,2024-10-21,2024-11-03,Q4
+PROJ-328,Task,In Progress,Medium,2024-11-01,,Sprint 22,1,Senior Engineer 2,Database,2024-10-21,2024-11-03,Q4
